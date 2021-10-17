@@ -23,7 +23,7 @@ I've worked on a bunch of projects for over 3 years now and discovered that I pr
 ### 🌱 Cool things that I explored in the past ~
 - Blockchain (DAPP) development on [Ethereum](https://ethereum.org/en/) (Solidity, Truffle) and [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)!
 - Computer Vision (Optical Character Recognition) with [Pytorch](https://pytorch.org/)!
-- Andrew NG's amazing [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)!
+- Andrew Ng's amazing [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)!
 - Building mobile apps with [React-native](https://reactnative.dev/)!
 - Object Oriented Programming with Java, [JavaFX](https://openjfx.io/) and [Hibernate](https://hibernate.org/orm/)!
 - Learning [Assembly](https://github.com/Tahmeed156/Assembly-Sessional) (Intel 8086) & building a [Compiler](https://github.com/Tahmeed156/Compiler-Sessional) (flex-bison)! 
