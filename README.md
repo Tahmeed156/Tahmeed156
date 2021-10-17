@@ -1,6 +1,6 @@
 <h1 align="center">~ Hello there! I'm Tahmeed Tarek ~</h1>
 
-I'm currently doing my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_ and also work as a **backend developer**. Besides tech I'm also fairly invested in movies & animes, reading, playing cards and regular pseudo-intellectual topics like philosophy, psychology and politics.
+I'm currently doing my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_ and also working as a **backend developer**. Besides tech I'm also fairly invested in movies & animes, reading, playing cards and regular pseudo-intellectual topics like philosophy, psychology and politics.
 
 > 💡 *I'm interested in part-time work, internships and research opportunities (where I can learn a lot) in the domain of backend development, systems programming or server administration so hit me up if you know of any interesting opportunities!*
 
