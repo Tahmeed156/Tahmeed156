@@ -7,8 +7,10 @@ I'm currently doing my undergrad on **Computer Science & Engineering** at _[BUET
 ### 🧑‍💻 My Tech!
 
 <p>
+<!-- <img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"> -->
 <img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
-<img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django">
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust">
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go">
 <img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
 <img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql">
 </p>
@@ -17,6 +19,7 @@ I'm currently doing my undergrad on **Computer Science & Engineering** at _[BUET
 - **API** - `django-rest-framework` `postman` `swagger` `graphql`
 - **Devops** - `AWS` `docker` `pytest` `git` `heroku` `linux` `bash`
 - **Frontend** - `react` `gatsby` `bootstrap` `react-native` 
+- **Languages** - `python` `go` `rust`
 
 I've worked on a bunch of projects for over 3 years now and discovered that I prefer working more on the systems and backend side of things. To that end I've recently been 🔭 **learning more about systems programming languages, distributed systems, databases and devops tooling**. But these interests may evolve by the time you're reading this!
 
