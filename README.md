@@ -35,7 +35,7 @@ I've worked on a bunch of projects for over 5 years now (over 2 years profession
 - Working with bare metal servers in data centers!
 - Functional programing with [F#](https://fsharp.org/)!
 - Blockchain (DAPP) development on EVM-based [Celo](https://celo.org/) / [Ethereum](https://ethereum.org/en/) using [Solidity](https://soliditylang.org/), [Hardhat](https://hardhat.org/), [IPFS](https://ipfs.tech/) & [Web3.js](https://web3js.readthedocs.io/)!
-- Payment gateway integration using [Stripe]([url](https://stripe.com/))
+- Payment gateway integration using [Stripe](https://stripe.com/)
 - Computer Vision (Optical Character Recognition) with [Pytorch](https://pytorch.org/)!
 - Andrew Ng's amazing [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)!
 - Mobile apps with [React-native](https://reactnative.dev/)!
