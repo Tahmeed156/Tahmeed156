@@ -1,34 +1,44 @@
 <h1 align="center">~ Hello there! I'm Tahmeed Tarek ~</h1>
 
-I'm currently doing my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_ and also working as a **backend developer**. Besides tech I'm also fairly invested in movies & animes, reading, playing cards and discussing regular pseudo-intellectual topics like philosophy, psychology and politics.
+I'm currently working at [Chaldal](https://chaldal.tech/) as a Software Engineer in the Infrastructure team.  I've completed my undergrad on **Computer Science & Engineering** at _[BUET](https://www.buet.ac.bd/web/)_. Besides tech I'm also fairly invested in movies & animes, reading, playing cards and discussing regular pseudo-intellectual topics like philosophy, psychology and politics.
 
-> 💡 *I'm interested in part-time work, internships and research opportunities (where I can learn a lot) in the domain of backend development, systems programming or server administration so hit me up if you know of any interesting opportunities!*
+> 💡 *I'm open to new opportunities in the domain of backend engineering, systems, cloud & networking!*
 
 ### 🧑‍💻 My Tech!
 
 <p>
-<!-- <img src="https://img.shields.io/badge/django-47474f.svg?style=for-the-badge&logo=django&logoColor=black&labelColor=ffffff" alt="django"> -->
-<img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python">
-<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="go">
-<img src="https://img.shields.io/badge/postgresql-6566ba.svg?style=for-the-badge&logo=postgresql&logoColor=6566ba&labelColor=ffffff" alt="postgresql">
-<img src="https://img.shields.io/badge/ubuntu-f7873b.svg?style=for-the-badge&logo=ubuntu&labelColor=ffffff&logoColor=f7873b" alt="ubuntu">
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql-server" />
+<img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual-studio" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="redis" /> 
+<!-- <img src="" alt="" /> -->
 </p>
 
-- **Backend** - `django` `flask` `sqlaclchemy` `SQL` `postgres`
-- **API** - `django-rest-framework` `postman` `swagger` `graphql`
-- **Devops** - `AWS` `docker` `pytest` `git` `heroku` `linux` `bash`
-- **Frontend** - `react` `gatsby` `bootstrap` `react-native` 
-- **Languages** - `python` `go` `rust`
+- **Backend** - `ASP.NET` `Redis` `gRPC / Protobuf` `Django` `Flask` `Express.js`
+- **Infra** - `Azure Service Fabric` `AWS` `Docker` `Linux, Bash`
+- **Database** - `SQL Server` `SQL` `PostgreSQL` `SQLAlchemy`
+- **Tools** - `Git` `Application Insights Telemetry` `Pytest` 
+- **Languages** - `.NET (C# / F#)` `Python` `Javscript` `Go` `Rust`
 
-I've worked on a bunch of projects for over 3 years now and discovered that I prefer working more on the systems and backend side of things. To that end I've recently been 🔭 **learning more about systems programming languages, distributed systems, databases and devops tooling**. But these interests may evolve by the time you're reading this!
+I've worked on a bunch of projects for over 5 years now (over 2 years professionally) and discovered that I prefer working more on the backends & infrastructure. To that end I've recently been 🔭 **learning more about distributed systems, databases, networking and infrastructure tooling**. 
 
 ### 🌱 Cool things that I explored in the past ~
-- Blockchain (DAPP) development on [Ethereum](https://ethereum.org/en/) (Solidity, Truffle) and [Hyperledger Fabric](https://www.hyperledger.org/use/fabric)!
+<!-- TODO: Update after you finish adding buet projects -->
+- Message queues using [Redis](https://redis.io/) and [Lua](https://www.lua.org/) scripts!
+- Micro-service commuication using [gRPC](https://grpc.io/) and [protobuf](https://protobuf.dev/) over [mTLS](https://www.cloudflare.com/learning/access-management/what-is-mutual-tls/)!
+- Backends based on [ASP.NET](https://dotnet.microsoft.com/en-us/apps/aspnet) (C# / F#), [Django](https://www.djangoproject.com/) (Python), [Flask](https://flask.palletsprojects.com/) (Python) and [Express.js](https://expressjs.com/) (Node.js) frameworks!
+- Orchestraction using [Azure Service Fabric](https://azure.microsoft.com/en-us/products/service-fabric)!
+- Cloud infrastructure on AWS using services like [EC2](https://aws.amazon.com/ec2/), [S3](https://aws.amazon.com/s3/), [SQS](https://aws.amazon.com/sqs/), [Cloudwatch](https://aws.amazon.com/cloudwatch/) & [Lambda](https://aws.amazon.com/lambda/)!
+- CI/CD pipelines with [Azure Devops](https://azure.microsoft.com/en-us/products/devops) and [Github Actions](https://docs.github.com/en/actions)!
+- Working with bare metal servers in data centers!
+- Functional programing with [F#](https://fsharp.org/)!
+- Blockchain (DAPP) development on EVM-based [Celo](https://celo.org/) / [Ethereum](https://ethereum.org/en/) using [Solidity](https://soliditylang.org/), [Hardhat](https://hardhat.org/), [IPFS](https://ipfs.tech/) & [Web3.js](https://web3js.readthedocs.io/)!
+- Payment gateway integration using [Stripe]([url](https://stripe.com/))
 - Computer Vision (Optical Character Recognition) with [Pytorch](https://pytorch.org/)!
 - Andrew Ng's amazing [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)!
-- Building mobile apps with [React-native](https://reactnative.dev/)!
+- Mobile apps with [React-native](https://reactnative.dev/)!
 - Object Oriented Programming with Java, [JavaFX](https://openjfx.io/) and [Hibernate](https://hibernate.org/orm/)!
 - Learning [Assembly](https://github.com/Tahmeed156/Assembly-Sessional) (Intel 8086) & building a [Compiler](https://github.com/Tahmeed156/Compiler-Sessional) (flex-bison)! 
 
